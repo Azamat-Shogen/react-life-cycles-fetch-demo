@@ -1,2 +1,2 @@
-# react-life-cycles-fetch-demo
+# class-based-pureComponent-demo
 Created with CodeSandbox
